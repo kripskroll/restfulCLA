@@ -26,8 +26,8 @@ def readlAllMEG ():
 
 #api_url = 'http://10.10.10.3:8080/accessor/nG1CLA.jsp'
 api_url = 'http://192.168.41.10:8080/accessor/nG1CLA.jsp'
-login = 'froments'
-passwd = 'netscout1'
+login = '******'
+passwd = '******'
 startData = "<clacommands><ur>"+login+"</ur><pw>"+passwd+"</pw>"
 endData = "</clacommands>"
 cmdData = READ_ALL_MEG
