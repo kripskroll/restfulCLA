@@ -1,3 +1,5 @@
+# If using Python 2.6 as the one installed in IS, should not work
+# Prefer to use urllib & urllib2 (embedded in Python default installation)
 import requests
 import sys,os
 #To manipulate XML files if necessary
